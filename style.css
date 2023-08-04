@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background-color: #283149;
+  }
+.animal {
+    outline: none;
+    border: 5px solid #6495ED;
+    font-family: 'Arvo', cursive;
+    font-size: 20px;
+    line-height: 16;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display:inline-block;
+    width: 150px;
+    height: 150px;
+    text-align:center;
+    margin: 10px;
+    background-color: white;
+}
+#dog {
+    background-image: url("images/dog.jpg");
+    background-size:210px;
+}
+#cat {
+    background-image: url("images/cat.jpg");
+    background-size:210px;
+}
+#lion {
+    background-image: url("images/lion.jpg");
+    background-size:200px;
+}
+#horse {
+    background-image: url("images/horse.jpg");
+    background-size:200px;
+}
+#calf{
+    background-image: url("images/calf.jpg");
+    background-size:200px;
+}
+#elephant{
+    background-image: url("images/elephant.jpg");
+    background-size:210px;
+}
+.animals{
+    margin: 20% auto;
+}
